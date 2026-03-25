@@ -1,4 +1,4 @@
-[![Focus tracker](https://github.com/efrem005/ra-hoc-focus-tracker/actions/workflows/web.yml/badge.svg)](https://github.com/efrem005/ra-hoc-focus-tracker/actions/workflows/web.yml)
+[![Focus tracker](https://github.com/efrem005/ra-hoc-focus-tracker/actions/workflows/deploy.yml/badge.svg)](https://github.com/efrem005/ra-hoc-focus-tracker/actions/workflows/deploy.yml)
 ## [GitHub Page](https://efrem005.github.io/ra-hoc-focus-tracker/)
 
 ## HOC для отслеживания фокуса
